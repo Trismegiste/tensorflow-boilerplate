@@ -8,6 +8,11 @@ For Ubuntu, it's here : https://docs.docker.com/engine/install/ubuntu/
 ### Install Nvidia Container Toolkit
 Assuming you have installed CUDA, for Ubuntu, it's here : https://docs.nvidia.com/ai-enterprise/deployment-guide/dg-docker.html#enabling-the-docker-repository-and-installing-the-nvidia-container-toolkit
 
+### Build
+```bash
+$ docker compose build
+```
+
 ## Run Tensorflow
 
 ### Check if gpus are detected in the container
