@@ -27,5 +27,13 @@ print(device_lib.list_local_devices())
 ```
 
 ## Develop
+### Sources
+Source goes into ```src``` folder.
 
-Work in progress...
+### Run
+And then, run ```main.py``` :
+```bash
+$ docker compose up
+```
+
+### Profit
