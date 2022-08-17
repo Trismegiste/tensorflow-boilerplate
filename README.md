@@ -1,5 +1,5 @@
 # Boilerplate for TensorFlow
-
+![Stack](https://github.com/Trismegiste/tensorflow-boilerplate/blob/master/docs/logo.svg)
 ## Install
 
 ### Install Docker Engine
