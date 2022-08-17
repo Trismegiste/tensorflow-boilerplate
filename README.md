@@ -35,8 +35,12 @@ print(device_lib.list_local_devices())
 ### Sources
 Source goes into ```src``` folder.
 
-### Run
-And then, run ```main.py``` :
+### Run a bash during development
+```bash
+$ docker compose run python bash
+```
+
+### Full install and run main.py
 ```bash
 $ docker compose up
 ```
