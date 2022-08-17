@@ -1,0 +1,7 @@
+services:
+    python:
+        build: .
+        image: tensorflow
+        runtime: nvidia
+        volumes:
+            - ./src:/project
